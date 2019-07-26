@@ -1,0 +1,70 @@
+.App {
+  text-align: center;
+}
+
+.App-logo {
+  animation: App-logo-spin infinite 20s linear;
+  height: 40vmin;
+  pointer-events: none;
+}
+
+.App-header {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.App-link {
+  color: #61dafb;
+}
+
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
+.sdm-bg {
+  color: #fff;
+  background: #8e45ae;
+  position: relative;
+  padding-top: 52px;
+}
+.sdm-bg .overlay {
+  position: absolute;
+  width: 100%;
+  height: 140px;
+  bottom: 0;
+  opacity: .5;
+  background: -webkit-linear-gradient(60deg,#8e45ae 12%,transparent 12.5%,transparent 87%,#8e45ae 87.5%,#8e45ae 0),-webkit-linear-gradient(300deg,#8e45ae 12%,transparent 12.5%,transparent 87%,#8e45ae 87.5%,#8e45ae 0),-webkit-linear-gradient(60deg,#8e45ae 12%,transparent 12.5%,transparent 87%,#8e45ae 87.5%,#8e45ae 0),-webkit-linear-gradient(300deg,#8e45ae 12%,transparent 12.5%,transparent 87%,#8e45ae 87.5%,#8e45ae 0),-webkit-linear-gradient(30deg,#9f59bd 25%,transparent 25.5%,transparent 75%,#9f59bd 75%,#9f59bd 0),-webkit-linear-gradient(30deg,#9f59bd 25%,transparent 25.5%,transparent 75%,#9f59bd 75%,#9f59bd 0),#793b94;
+  background: linear-gradient(30deg,#8e45ae 12%,transparent 12.5%,transparent 87%,#8e45ae 87.5%,#8e45ae 0),linear-gradient(150deg,#8e45ae 12%,transparent 12.5%,transparent 87%,#8e45ae 87.5%,#8e45ae 0),linear-gradient(30deg,#8e45ae 12%,transparent 12.5%,transparent 87%,#8e45ae 87.5%,#8e45ae 0),linear-gradient(150deg,#8e45ae 12%,transparent 12.5%,transparent 87%,#8e45ae 87.5%,#8e45ae 0),linear-gradient(60deg,#9f59bd 25%,transparent 25.5%,transparent 75%,#9f59bd 75%,#9f59bd 0),linear-gradient(60deg,#9f59bd 25%,transparent 25.5%,transparent 75%,#9f59bd 75%,#9f59bd 0),#793b94;
+  background-position: 0 0,0 0,40px 70px,40px 70px,0 0,40px 70px;
+  background-size: 80px 140px;
+}
+
+.icon-archive{
+  font-size: 35px;
+  display: flex;
+  justify-content: center;
+  padding-bottom: 21px;
+}
+.experience{
+  text-align: justify;
+  padding: 0px 20px;
+}
+.experience-heading{
+  color: white;
+}
+.white{
+  color:white !important
+}
+.padding-left{
+  padding-left: 12px;
+}
