@@ -2,9 +2,7 @@ import React, { Component } from 'react'
 import Highcharts from 'highcharts';
 
 export default class PieChart extends Component {
-    constructor(props) {
-        super(props);
-    }
+    
     highChartsRender() {
       Highcharts.chart({
         chart: {
