@@ -1338,11 +1338,11 @@ body.offcanvas {
     *display: inline;
     width: 30px;
     height: 2px;
-    color: #000;
+    color: #f00;
     font: bold 14px/.4 Helvetica;
     text-transform: uppercase;
     text-indent: -55px;
-    background: #000;
+    background: #ffa500;
     -webkit-transition: all .2s ease-out;
     -o-transition: all .2s ease-out;
     transition: all .2s ease-out; }
@@ -1350,7 +1350,7 @@ body.offcanvas {
       content: '';
       width: 30px;
       height: 2px;
-      background: #000;
+      background: #ffa500;
       position: absolute;
       left: 0;
       -webkit-transition: 0.2s;
@@ -1359,12 +1359,12 @@ body.offcanvas {
   .colorlib-nav-toggle.dark i {
     position: relative;
     color: #000;
-    background: #000;
+    background: #ffa500;
     -webkit-transition: all .2s ease-out;
     -o-transition: all .2s ease-out;
     transition: all .2s ease-out; }
     .colorlib-nav-toggle.dark i::before, .colorlib-nav-toggle.dark i::after {
-      background: #000;
+      background: #ffa500;
       -webkit-transition: 0.2s;
       -o-transition: 0.2s;
       transition: 0.2s; }

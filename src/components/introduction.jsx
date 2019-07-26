@@ -14,7 +14,7 @@ export default class Introduction extends Component {
                     <div className="col-md-6 col-md-offset-3 col-md-pull-3 col-sm-12 col-xs-12 js-fullheight slider-text">
                       <div className="slider-text-inner js-fullheight">
                         <div className="desc">
-                          <h1 className="white">Hi! <br />I'm SIMON XIE</h1>
+                          <h1 style={{color:'#fa0f46'}} >Hi! <br />I'm SIMON XIE</h1>
                         </div>
                       </div>
                     </div>
@@ -28,7 +28,7 @@ export default class Introduction extends Component {
                     <div className="col-md-6 col-md-offset-3 col-md-pull-3 col-sm-12 col-xs-12 js-fullheight slider-text">
                       <div className="slider-text-inner">
                         <div className="desc">
-                          <h3 className="white">I'm a Full Stack Developer with extensive experience in building high-quality React Apps with Node backend.</h3>
+                          <h3 style={{color:'#fa0f46'}} >I'm a Full Stack Developer with extensive experience in building high-quality React Apps with Node backend.</h3>
                         </div>
                       </div>
                     </div>
