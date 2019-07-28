@@ -7,9 +7,10 @@
     "font-awesome": "^4.7.0",
     "gh-pages": "^2.0.1",
     "highcharts": "^7.1.2",
+    "highcharts-react-official": "^2.2.2",
     "react": "^16.8.3",
     "react-dom": "^16.8.3",
-    "react-scripts": "2.1.5",
+    "react-scripts": "^3.0.1",
     "travis": "^0.1.1",
     "yarn": "^1.13.0"
   },
@@ -29,5 +30,8 @@
     "not dead",
     "not ie <= 11",
     "not op_mini all"
-  ]
+  ],
+  "devDependencies": {
+    "react-highcharts": "^16.0.2"
+  }
 }

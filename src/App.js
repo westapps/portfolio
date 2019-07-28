@@ -7,20 +7,21 @@ import Education from './components/education';
 import Experience from './components/experience';
 import Timeline from './components/timeline';
 import SpareLearning from './components/spareLearning';
+
 class App extends Component {
   render() {
     return (
       <div id="colorlib-page">
         <div id="container-wrap">
          	<Sidebar></Sidebar>
-				<div id="colorlib-main">
-					<Introduction></Introduction>
-          <Education/>
-					<About></About>
-					<Timeline></Timeline>
-          <SpareLearning/> 
-          <Experience/>
-          	</div>
+				  <div id="colorlib-main">
+  					<Introduction></Introduction>
+            <Education/>
+  					<About></About>
+  					<Timeline></Timeline>
+            <SpareLearning/>
+            <Experience/>
+          </div>
       	</div>
       </div>
     );

@@ -1,6 +1,7 @@
 import React, { Component } from 'react'
 import PieChart from './charts/PieChart';
 import RadiusPie from './charts/RadiusPie';
+
 export default class SpareLearning extends Component {
     render() {
         return (
@@ -15,10 +16,10 @@ export default class SpareLearning extends Component {
                         </div>
                         <div className="row">
                             <div className="col-md-6">
-                                <PieChart />
+                              <PieChart />
                             </div>
                             <div className="col-md-6">
-                                <RadiusPie />
+                              <RadiusPie />
                             </div>
                         </div>
                     </div>

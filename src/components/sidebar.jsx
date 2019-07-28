@@ -11,7 +11,7 @@ export default class Sidebar extends Component {
               <div className="author-img" style={{backgroundImage: 'url(images/simon.png)'}} />
               <h1 id="colorlib-logo"><a href="index.html">SIMON XIE</a></h1>
               <h4>Full Stack Developer</h4>
-              <span className="email"><i className="icon-phone"></i> 0415 809 789</span> <br/> 
+              <span className="email"><i className="icon-phone"></i> 0415 809 789</span> <br/>
               <span className="email"><i className="icon-mail"></i> simon.fuxi.xie@gmail.com</span><br/>
               <span className="email"><i className="icon-home"></i> Hamersley (Perth), WA</span><br/>
               <span className="email"><i className="icon-arrow-right"></i> Permanent Resident</span><br/>
@@ -26,7 +26,6 @@ export default class Sidebar extends Component {
                   <li><a href="#timeline" data-nav-section="timeline">Qualification & Certificates</a></li>
                   <li><a href="#spareLearning" data-nav-section="spareLearning">Spare Time Learning</a></li>
                   <li><a href="#experience" data-nav-section="experience">Relevant Professional Experience</a></li>
-
                 </ul>
               </div>
             </nav>
