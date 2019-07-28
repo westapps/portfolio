@@ -15,8 +15,8 @@ export default class Education extends Component {
                     <i className="icon-arrow-right"></i> <span>Extensive use of Node environment using NPM & Mongo DB along with Mongoose.JS to create server side</span><br />
                     <i className="icon-arrow-right"></i> Deep understanding of OAuth 2.0 and OpenID Connect<br />
                     <i className="icon-arrow-right"></i>Working knowledge on Jest unit testing framework and Module bundler Webpack<br />
-                    <i className="icon-arrow-right"></i>Experience with the version controls GIT and CI/CD<br />
-                    <i className="icon-arrow-right"></i>Experience on building frontend by using REACT/HTML/CSS/JS
+                    <i className="icon-arrow-right"></i>Experience with GIT and Jenkins CI/CD<br />
+                    <i className="icon-arrow-right"></i>Experience on building frontend by using REACT/React Native/HTML/CSS/JS
                   </div>
                 </div>
                 <div className="col-md-6 col-sm-12 animate-box" data-animate-effect="fadeInLeft">
