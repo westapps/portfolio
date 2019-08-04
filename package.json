@@ -4,13 +4,16 @@
   "private": true,
   "homepage": "https://www.simonxie.dev",
   "dependencies": {
+    "enzyme-adapter-react-16": "^1.14.0",
     "font-awesome": "^4.7.0",
     "gh-pages": "^2.0.1",
     "highcharts": "^7.1.2",
     "highcharts-react-official": "^2.2.2",
+    "jest-dom": "^4.0.0",
     "react": "^16.8.3",
     "react-dom": "^16.8.3",
     "react-scripts": "^3.0.1",
+    "react-testing-library": "^8.0.1",
     "travis": "^0.1.1",
     "yarn": "^1.13.0"
   },
@@ -20,7 +23,7 @@
     "predeploy": "yarn run build",
     "deploy": "gh-pages -d build",
     "test": "react-scripts test --env=jsdom --watchAll=false",
-	"test:dev": "react-scripts test --env=jsdom",
+    "test:dev": "react-scripts test --env=jsdom",
     "eject": "react-scripts eject"
   },
   "eslintConfig": {
@@ -41,5 +44,6 @@
     "react-addons-test-utils": "^15.6.2",
     "react-highcharts": "^16.0.2",
     "react-test-renderer": "^16.8.6"
-  }
+  }  
+  
 }
