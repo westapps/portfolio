@@ -8,7 +8,7 @@ export default class About extends Component {
                     <div className="colorlib-narrow-content">
                         <div className="row">
                             <div className="col-md-6 col-md-offset-3 col-md-pull-3 animate-box" data-animate-effect="fadeInLeft">
-                                <h2 className="colorlib-heading">*Full Stack Technical Skills</h2>
+                                <h2 className="colorlib-heading">**Full Stack Technical Skills</h2>
                             </div>
                         </div>
                         <div className="row row-pt-md">
