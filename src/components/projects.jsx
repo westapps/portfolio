@@ -12,12 +12,13 @@ export default class Projects extends Component {
                 <p></p>
               </div>
               <div className="tic-body">
+
                 <div className="row">
                   <div className="col-md-6 col-sm-6 col-xs-12">
                     <div className="ric-bdy-con-ai">
                       <div className="tes-content ai">
                         <a href="https://www.xcoins.site/"><div className="tes-con-sc ai"><img src="images/projects_01_xcoins.jpg" alt="Demo"/></div>
-                          <div className="tes-con-name ai">React App</div>
+                          <div className="tes-con-name ai">Crypto market: React App</div>
                         </a>
                       </div>
                     </div>
@@ -27,19 +28,20 @@ export default class Projects extends Component {
                       <div className="tes-content ai">
                         <a href="https://jenkins.simonxie.dev/">
                           <div className="tes-con-sc ai"><img src="images/projects_02_jenkins.jpg" alt="Demo"/></div>
-                          <div className="tes-con-name ai">Jenkins CI/CD</div>
+                          <div className="tes-con-name ai">Jenkins: CI/CD</div>
                         </a>
                       </div>
                     </div>
                   </div>
                 </div>
+
                 <div className="row">
                   <div className="col-md-6 col-sm-6 col-xs-12" style={{paddingTop:'30px'}}>
                     <div className="ric-bdy-con-ai">
                       <div className="tes-content ai">
                         <a href="https://formcreator.simonxie.dev/en/register">
                           <div className="tes-con-sc ai"><img src="images/projects_03_formcreator.jpg" alt="Demo"/></div>
-                          <div className="tes-con-name ai">React, NodeJS, MongoDB</div>
+                          <div className="tes-con-name ai">Form Creator: React, NodeJS, MongoDB</div>
                         </a>
                       </div>
                     </div>
@@ -49,12 +51,36 @@ export default class Projects extends Component {
                       <div className="tes-content ai">
                         <a href="#">
                           <div className="tes-con-sc ai"><img src="images/projects_04_qrcode.jpg" alt="Demo"/></div>
-                          <div className="tes-con-name ai">React Native</div>
+                          <div className="tes-con-name ai">QR Code: React Native</div>
                         </a>
                       </div>
                     </div>
                   </div>
                 </div>
+
+                <div className="row">
+                  <div className="col-md-6 col-sm-6 col-xs-12" style={{paddingTop:'30px'}}>
+                    <div className="ric-bdy-con-ai">
+                      <div className="tes-content ai">
+                        <a href="https://formcreator.simonxie.dev/en/register">
+                          <div className="tes-con-sc ai"><img src="images/projects_05_westapps.jpg" alt="Demo"/></div>
+                          <div className="tes-con-name ai">Form Creator: React, NodeJS, MongoDB</div>
+                        </a>
+                      </div>
+                    </div>
+                  </div>
+                  <div className="col-md-6 col-sm-6 col-xs-12" style={{paddingTop:'30px'}}>
+                    <div className="ric-bdy-con-ai">
+                      <div className="tes-content ai">
+                        <a href="#">
+                          <div className="tes-con-sc ai"><img src="images/projects_04_qrcode.jpg" alt="Demo"/></div>
+                          <div className="tes-con-name ai">QR Code: React Native</div>
+                        </a>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+
               </div>
             </div>
           </div>

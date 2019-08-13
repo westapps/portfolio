@@ -4,7 +4,7 @@ import Sidebar from './components/sidebar'
 import Introduction from './components/introduction'
 import About from './components/about';
 import Education from './components/education';
-import Experience from './components/experience';
+// import Experience from './components/experience';
 import Timeline from './components/timeline';
 import SpareLearning from './components/spareLearning';
 import Projects from './components/projects';

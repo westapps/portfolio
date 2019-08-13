@@ -25,7 +25,7 @@ export default class Education extends Component {
                   <div className="block education">
                       <i className="icon-home"></i> Beijing University of Aeronautics and Astronautics (Named BEIHANG UNIVERSITY Now) <br />
                       <i className="icon-tag"></i> Major: Mechanical-Electrical Control & Detection, Bachelor’s degree <br />
-					  <i className="icon-tag"></i> 1/3 of subjects are computer-science-related
+					            <i className="icon-bookmark"></i> 1/3 of subjects are computer-science-related
                   </div>
                 </div>
               </div>
