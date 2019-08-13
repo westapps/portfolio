@@ -41,7 +41,7 @@ export default class About extends Component {
                                     </span>
                                     <div className="desc cloud-platform">
                                         <h3>TEST</h3>
-                                        <p>Jest, TDD</p>
+                                        <p>Jest, Supertest, TDD</p>
                                     </div>
                                 </div>
                             </div>
@@ -82,8 +82,19 @@ export default class About extends Component {
                             </div>
                         </div>
                         <div className="row row-pt-md">
-                            <div className="col-md-4 text-center animate-box">
+							<div className="col-md-4 text-center animate-box">
                                 <div className="services color-7">
+                                    <span className="icon">
+                                        <i className="icon-layers2" />
+                                    </span>
+                                    <div className="desc">
+                                        <h3>Agile Env</h3>
+                                        <p>Docker, CI/CD</p>
+                                    </div>
+                                </div>
+                            </div>
+                            <div className="col-md-4 text-center animate-box">
+                                <div className="services color-8">
                                     <span className="icon">
                                         <i className="icon-layers2" />
                                     </span>
@@ -94,7 +105,7 @@ export default class About extends Component {
                                 </div>
                             </div>
                             <div className="col-md-4 text-center animate-box">
-                                <div className="services color-8">
+                                <div className="services color-9">
                                     <span className="icon">
                                         <i className="icon-layers2" />
                                     </span>
