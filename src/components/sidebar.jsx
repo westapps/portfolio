@@ -25,7 +25,7 @@ export default class Sidebar extends Component {
                   <li><a href="#about" data-nav-section="about">Technical Skills</a></li>
                   <li><a href="#timeline" data-nav-section="timeline">Qualification & Certificates</a></li>
                   <li><a href="#spareLearning" data-nav-section="spareLearning">Spare Time Learning</a></li>
-                  <li><a href="#experience" data-nav-section="experience">Relevant Professional Experience</a></li>
+                  <li><a href="#projects" data-nav-section="projects">Hobby Projects</a></li>
                 </ul>
               </div>
             </nav>
