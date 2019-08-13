@@ -8,6 +8,7 @@ import Experience from './components/experience';
 import Timeline from './components/timeline';
 import SpareLearning from './components/spareLearning';
 import Projects from './components/projects';
+import Assessment from './components/skills_assessment';
 
 class App extends Component {
   render() {
@@ -20,8 +21,9 @@ class App extends Component {
             <Education/>
   					<About></About>
   					<Timeline></Timeline>
-            <SpareLearning/>            
+            <SpareLearning/>
             <Projects/>
+            <Assessment/>
           </div>
       	</div>
       </div>
