@@ -17,8 +17,9 @@ export default class Projects extends Component {
                   <div className="col-md-6 col-sm-6 col-xs-12">
                     <div className="ric-bdy-con-ai">
                       <div className="tes-content ai">
-                        <a href="https://www.xcoins.site/"><div className="tes-con-sc ai"><img src="images/projects_01_xcoins.jpg" alt="Demo"/></div>
-                          <div className="tes-con-name ai">Crypto market: React App</div>
+                        <a href="https://www.xcoins.site/" target="_blank" rel="noopener noreferrer">
+                          <div className="tes-con-sc ai"><img src="images/projects_01_xcoins.jpg" alt="Demo"/></div>
+                          <div className="tes-con-name ai">Crypto market: React App,  Socket.io</div>
                         </a>
                       </div>
                     </div>
@@ -26,7 +27,7 @@ export default class Projects extends Component {
                   <div className="col-md-6 col-sm-6 col-xs-12">
                     <div className="ric-bdy-con-ai">
                       <div className="tes-content ai">
-                        <a href="https://jenkins.simonxie.dev/">
+                        <a href="https://jenkins.simonxie.dev/" target="_blank" rel="noopener noreferrer">
                           <div className="tes-con-sc ai"><img src="images/projects_02_jenkins.jpg" alt="Demo"/></div>
                           <div className="tes-con-name ai">Jenkins: CI/CD</div>
                         </a>
@@ -39,9 +40,9 @@ export default class Projects extends Component {
                   <div className="col-md-6 col-sm-6 col-xs-12" style={{paddingTop:'30px'}}>
                     <div className="ric-bdy-con-ai">
                       <div className="tes-content ai">
-                        <a href="https://formcreator.simonxie.dev/en/register">
+                        <a href="https://formcreator.simonxie.dev/en/register" target="_blank" rel="noopener noreferrer">
                           <div className="tes-con-sc ai"><img src="images/projects_03_formcreator.jpg" alt="Demo"/></div>
-                          <div className="tes-con-name ai">Form Creator: React, NodeJS, MongoDB</div>
+                          <div className="tes-con-name ai">Form Creator: React, NodeJS, MySQL</div>
                         </a>
                       </div>
                     </div>
@@ -49,9 +50,9 @@ export default class Projects extends Component {
                   <div className="col-md-6 col-sm-6 col-xs-12" style={{paddingTop:'30px'}}>
                     <div className="ric-bdy-con-ai">
                       <div className="tes-content ai">
-                        <a href="#">
-                          <div className="tes-con-sc ai"><img src="images/projects_04_qrcode.jpg" alt="Demo"/></div>
-                          <div className="tes-con-name ai">QR Code: React Native</div>
+                        <a href="#" target="_blank" rel="noopener noreferrer">
+                          <div className="tes-con-sc ai"><img src="images/projects_06_chat.jpg" alt="Demo"/></div>
+                          <div className="tes-con-name ai">Messaging: React Native, NodeJS, Socket.io</div>
                         </a>
                       </div>
                     </div>
@@ -62,7 +63,7 @@ export default class Projects extends Component {
                   <div className="col-md-6 col-sm-6 col-xs-12" style={{paddingTop:'30px'}}>
                     <div className="ric-bdy-con-ai">
                       <div className="tes-content ai">
-                        <a href="https://formcreator.simonxie.dev/en/register">
+                        <a href="http://www.west-apps.com" target="_blank" rel="noopener noreferrer">
                           <div className="tes-con-sc ai"><img src="images/projects_05_westapps.jpg" alt="Demo"/></div>
                           <div className="tes-con-name ai">Form Creator: React, NodeJS, MongoDB</div>
                         </a>
@@ -72,7 +73,7 @@ export default class Projects extends Component {
                   <div className="col-md-6 col-sm-6 col-xs-12" style={{paddingTop:'30px'}}>
                     <div className="ric-bdy-con-ai">
                       <div className="tes-content ai">
-                        <a href="#">
+                        <a href="#" target="_blank" rel="noopener noreferrer">
                           <div className="tes-con-sc ai"><img src="images/projects_04_qrcode.jpg" alt="Demo"/></div>
                           <div className="tes-con-name ai">QR Code: React Native</div>
                         </a>
