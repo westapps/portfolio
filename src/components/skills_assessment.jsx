@@ -17,7 +17,7 @@ export default class Assessment extends Component {
             </div>
             <div className="row">
               <div className="col-md-6 gallery_gap">
-                <img src="images/javascript_assessment.jpg" className="gallery" alt="Demo"></img>
+                <img src="images/html5_assessment.jpg" className="gallery" alt="Demo"></img>
               </div>
               <div className="col-md-6 gallery_gap">
                 <img src="images/react_assessment.jpg" className="gallery" alt="Demo"></img>

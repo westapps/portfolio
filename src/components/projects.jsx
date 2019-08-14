@@ -65,7 +65,7 @@ export default class Projects extends Component {
                       <div className="tes-content ai">
                         <a href="http://www.west-apps.com" target="_blank" rel="noopener noreferrer">
                           <div className="tes-con-sc ai"><img src="images/projects_05_westapps.jpg" alt="Demo"/></div>
-                          <div className="tes-con-name ai">Form Creator: React, NodeJS, MongoDB</div>
+                          <div className="tes-con-name ai">AI/AR Service Provider: React, NodeJS, MongoDB</div>
                         </a>
                       </div>
                     </div>
