@@ -50,7 +50,7 @@ export default class Projects extends Component {
                   <div className="col-md-6 col-sm-6 col-xs-12" style={{paddingTop:'30px'}}>
                     <div className="ric-bdy-con-ai">
                       <div className="tes-content ai">
-                        <a href="#" target="_blank" rel="noopener noreferrer">
+                        <a href="#chat" target="_blank" rel="noopener noreferrer">
                           <div className="tes-con-sc ai"><img src="images/projects_06_chat.jpg" alt="Demo"/></div>
                           <div className="tes-con-name ai">Messaging: React Native, NodeJS, Socket.io</div>
                         </a>
@@ -73,7 +73,7 @@ export default class Projects extends Component {
                   <div className="col-md-6 col-sm-6 col-xs-12" style={{paddingTop:'30px'}}>
                     <div className="ric-bdy-con-ai">
                       <div className="tes-content ai">
-                        <a href="#" target="_blank" rel="noopener noreferrer">
+                        <a href="#qrcode" target="_blank" rel="noopener noreferrer">
                           <div className="tes-con-sc ai"><img src="images/projects_04_qrcode.jpg" alt="Demo"/></div>
                           <div className="tes-con-name ai">QR Code: React Native</div>
                         </a>
