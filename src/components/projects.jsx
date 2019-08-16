@@ -18,7 +18,7 @@ export default class Projects extends Component {
                     <div className="ric-bdy-con-ai">
                       <div className="tes-content ai">
                         <a href="https://www.xcoins.site/" target="_blank" rel="noopener noreferrer">
-                          <div className="tes-con-sc ai"><img src="images/projects_01_xcoins.jpg" alt="Demo"/></div>
+                          <div className="tes-con-sc ai"><img src="images/projects_01_xcoins.jpg" alt="xcoins"/></div>
                           <div className="tes-con-name ai">Crypto market: React App,  Socket.io</div>
                         </a>
                       </div>
@@ -28,7 +28,7 @@ export default class Projects extends Component {
                     <div className="ric-bdy-con-ai">
                       <div className="tes-content ai">
                         <a href="https://jenkins.simonxie.dev/" target="_blank" rel="noopener noreferrer">
-                          <div className="tes-con-sc ai"><img src="images/projects_02_jenkins.jpg" alt="Demo"/></div>
+                          <div className="tes-con-sc ai"><img src="images/projects_02_jenkins.jpg" alt="jenkins"/></div>
                           <div className="tes-con-name ai">Jenkins: CI/CD</div>
                         </a>
                       </div>
@@ -41,7 +41,7 @@ export default class Projects extends Component {
                     <div className="ric-bdy-con-ai">
                       <div className="tes-content ai">
                         <a href="https://formcreator.simonxie.dev/en/register" target="_blank" rel="noopener noreferrer">
-                          <div className="tes-con-sc ai"><img src="images/projects_03_formcreator.jpg" alt="Demo"/></div>
+                          <div className="tes-con-sc ai"><img src="images/projects_03_formcreator.jpg" alt="formcreator"/></div>
                           <div className="tes-con-name ai">Form Creator: React, NodeJS, MySQL</div>
                         </a>
                       </div>
@@ -51,8 +51,8 @@ export default class Projects extends Component {
                     <div className="ric-bdy-con-ai">
                       <div className="tes-content ai">
                         <a href="#chat" target="_blank" rel="noopener noreferrer">
-                          <div className="tes-con-sc ai"><img src="images/projects_06_chat.jpg" alt="Demo"/></div>
-                          <div className="tes-con-name ai">Messaging: React Native, NodeJS, Socket.io</div>
+                          <div className="tes-con-sc ai"><img src="images/projects_04_qrcode.jpg" alt="QR Code"/></div>
+                          <div className="tes-con-name ai">QR Code: React Native</div>
                         </a>
                       </div>
                     </div>
@@ -64,7 +64,7 @@ export default class Projects extends Component {
                     <div className="ric-bdy-con-ai">
                       <div className="tes-content ai">
                         <a href="http://www.west-apps.com" target="_blank" rel="noopener noreferrer">
-                          <div className="tes-con-sc ai"><img src="images/projects_05_westapps.jpg" alt="Demo"/></div>
+                          <div className="tes-con-sc ai"><img src="images/projects_05_westapps.jpg" alt="westapps"/></div>
                           <div className="tes-con-name ai">AI/AR Service Provider: React, NodeJS, MongoDB</div>
                         </a>
                       </div>
@@ -74,8 +74,8 @@ export default class Projects extends Component {
                     <div className="ric-bdy-con-ai">
                       <div className="tes-content ai">
                         <a href="#qrcode" target="_blank" rel="noopener noreferrer">
-                          <div className="tes-con-sc ai"><img src="images/projects_04_qrcode.jpg" alt="Demo"/></div>
-                          <div className="tes-con-name ai">QR Code: React Native</div>
+                          <div className="tes-con-sc ai"><img src="images/projects_07_mdrive.jpg" alt="mdrive"/></div>
+                          <div className="tes-con-name ai">mDrive: React Native, MySQL, NodeJS</div>
                         </a>
                       </div>
                     </div>

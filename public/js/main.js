@@ -26,7 +26,7 @@
 	};
 
 	var fullHeight = function() {
-		console.log('!isMobile.any()', !isMobile.any());
+		// console.log('!isMobile.any()', !isMobile.any());
 
 		if ( !isMobile.any() ) {
 			$('.js-fullheight').css('height', $(window).height());
