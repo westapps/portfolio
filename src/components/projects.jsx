@@ -50,9 +50,9 @@ export default class Projects extends Component {
                   <div className="col-md-6 col-sm-6 col-xs-12" style={{paddingTop:'30px'}}>
                     <div className="ric-bdy-con-ai">
                       <div className="tes-content ai">
-                        <a href="#chat" target="_blank" rel="noopener noreferrer">
-                          <div className="tes-con-sc ai"><img src="images/projects_04_qrcode.jpg" alt="QR Code"/></div>
-                          <div className="tes-con-name ai">QR Code: React Native</div>
+                        <a href="#qrcode" target="_blank" rel="noopener noreferrer">
+                          <div className="tes-con-sc ai"><img src="images/project_04_x_messenger.png" alt="x-messenger-app"/></div>
+                          <div className="tes-con-name ai">X-Messenger: React Native, Socket.io, Redis, NodeJS, MongoDB, AWS S3</div>
                         </a>
                       </div>
                     </div>
@@ -73,7 +73,7 @@ export default class Projects extends Component {
                   <div className="col-md-6 col-sm-6 col-xs-12" style={{paddingTop:'30px'}}>
                     <div className="ric-bdy-con-ai">
                       <div className="tes-content ai">
-                        <a href="#qrcode" target="_blank" rel="noopener noreferrer">
+                        <a href="#mdrive" target="_blank" rel="noopener noreferrer">
                           <div className="tes-con-sc ai"><img src="images/projects_07_mdrive.jpg" alt="mdrive"/></div>
                           <div className="tes-con-name ai">mDrive: React Native, MySQL, NodeJS</div>
                         </a>

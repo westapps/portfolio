@@ -19,7 +19,7 @@ export default class About extends Component {
                                     </span>
                                     <div className="desc">
                                         <h3>Web Technologies </h3>
-                                        <p>HTML/HTML5, CSS/CSS3, JavaScript, ES6, AJAX, jQuery, JSON, Bootstrap, Restful API, API keys, OAuth, JWT, WebSockets, Express JS, Node.js, React.js, Redux, Redux-Saga</p>
+                                        <p>HTML/HTML5, CSS/CSS3, JavaScript, TypeScript, ES6, AJAX, jQuery, JSON, Bootstrap, Restful API, API keys, OAuth, JWT, WebSockets, Express JS, Node.js, React.js, React-Native, Redux, Redux-Saga</p>
                                     </div>
                                 </div>
                             </div>
@@ -29,8 +29,8 @@ export default class About extends Component {
                                         <i className="icon-layers2" />
                                     </span>
                                     <div className="desc rest-tool">
-                                        <h3>REST API TOOL</h3>
-                                        <p>Postman, api-designer based on RAML specs</p>
+                                        <h3>API</h3>
+                                        <p>REST API, GraphQL API</p>
                                     </div>
                                 </div>
                             </div>
@@ -54,7 +54,7 @@ export default class About extends Component {
                                     </span>
                                     <div className="desc database">
                                         <h3>DATABASES</h3>
-                                        <p>MongoDB, MySQL </p>
+                                        <p>SQL, MongoDB, MySQL, Redis </p>
                                     </div>
                                 </div>
                             </div>
