@@ -13,7 +13,7 @@ export default class Sidebar extends Component {
               <h4>Full Stack Developer</h4>
               <span className="email"><i className="icon-phone"></i> 0415 809 789</span> <br/>
               <span className="email"><i className="icon-mail"></i> simon.fuxi.xie@gmail.com</span><br/>
-              <span className="email"><i className="icon-home"></i> Hamersley (Perth), WA</span><br/>
+              <span className="email"><i className="icon-home"></i> Wantirna South (Melbourne), VIC</span><br/>
               <span className="email"><i className="icon-arrow-right"></i> Permanent Resident</span><br/>
             </div>
             <br/>
