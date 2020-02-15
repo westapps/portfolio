@@ -15,7 +15,7 @@
     "react-scripts": "^3.0.1",
     "react-testing-library": "^8.0.1",
     "travis": "^0.1.1",
-    "yarn": "^1.13.0"
+    "yarn": "^1.22.0"
   },
   "scripts": {
     "start": "react-scripts start",
